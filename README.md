@@ -1,5 +1,5 @@
 
-🩺 AI-Powered Healthcare Diagnosis Assistant
+##🩺 AI-Powered Healthcare Diagnosis Assistant
 Introduction
 
 The AI-Powered Healthcare Diagnosis Assistant is a machine learning–based web application that helps users identify possible diseases based on the symptoms they provide. The project uses a Random Forest Classifier trained on a healthcare dataset to predict the most likely disease and then provides useful information such as the disease description, confidence score, and recommended precautions.
@@ -10,7 +10,7 @@ To improve usability, the chatbot supports common symptom synonyms and spelling 
 
 This project demonstrates the practical application of Artificial Intelligence, Machine Learning, Natural Language Processing (NLP), and Web Development in the healthcare domain. While the assistant provides intelligent disease predictions and health recommendations, it is intended only for educational and informational purposes and should not replace professional medical advice or diagnosis from qualified healthcare providers.
 
-Key Features
+##Key Features
 🤖 Interactive AI chatbot for healthcare assistance
 🩺 Disease prediction using the Random Forest Machine Learning algorithm
 💬 Accepts symptoms in natural language
